@@ -1,1 +1,2 @@
-# UAS-WEB
+# SewaDVD
+Sistem informasi kasir penyewaan DVD
